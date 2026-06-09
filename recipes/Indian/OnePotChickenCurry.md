@@ -30,6 +30,8 @@ updated: 26.05.2026
 
 ---
 
+## Fremgangsmåte
+
 1. Kutt løken i strimler
 2. Varm olje og ghee i en stor gryte
 3. Stek laurbærblad, kanelstang, hel kardemomme og hel nellik i 30 sekunder
@@ -45,3 +47,16 @@ updated: 26.05.2026
 13. Fyll med vann til kyllingen er dekket, og la det småkoke i 20–30 minutter, til kyllingen er gjennomkokt
 14. Hvis du har kasuri methi, knus det mellom hendene og strø det i
 15. La det redusere i 6–7 minutter til sausen er tyknet, og server med ris og pickle
+
+## Notater
+
+**Tips — hvor lenge tåler kyllingen å koke?** Med beinkylling og lokk på går det an å småkoke ganske lenge:
+
+- **Sweetspot:** 30–45 minutter total småkoking (steg 13 + 15 lander her).
+- **Trygt opp til:** ca. 60 minutter — kjøttet holder seg saftig, men begynner å løsne fra beina.
+- **Etter 60 min:** teksturen blir mer trådete; fortsatt god smak, men ikke lenger hele biter.
+- **Maks:** ca. 90 minutter med lokk og rikelig væske. Etter det tørker selv beinkjøttet ut.
+
+Viktigst: lokket på og væsken må dekke kyllingen. Hvis det ser tørt ut, fyll på med varmt vann.
+
+**Lore: Hvorfor Garam Masala tilsettes sent:** Garam Masala er en ferdigristet krydderblanding der smakene allerede er trukket ut. Hvis den får koke for lenge, mister den aromaen og kan bli bitter. Derfor tilsettes den mot slutten, så smaken får runde av retten i stedet for å bli kokt bort.
