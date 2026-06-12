@@ -1,16 +1,16 @@
 ---
-title: Portein Pasta
+title: Protein Pasta
 tags: []
 ingredients:
   - { name: Italiensk Pølse, amount: '?'  }
-  - { name: Marinara Sauce (Tomat sauce), amount: 400g  }
+  - { name: Marinara Sauce (tomatsaus), amount: 400g  }
   - { name: Pasta, amount: 400g  }
   - { name: Cottage Cheese, amount: 450g, section: Saus }
-  - { name: Parmigano Reggiano, amount: 70g, section: Saus }
+  - { name: Parmigiano Reggiano, amount: 70g, section: Saus }
   - { name: Melk, amount: 0.6dl, section: Saus }
   - { name: Oregano, amount: 1 tsp, section: Saus }
-  - { name: Hvitølkskrydder, amount: 1 tsp, section: Saus }
-  - { name: Salt/Pepper, amount: smak til, section: Saus }
+  - { name: Hvitløkskrydder, amount: 1 tsp, section: Saus }
+  - { name: Salt og Pepper, amount: smak til, section: Saus }
 
 servings: 4 
 prep_time: 15m
@@ -19,7 +19,7 @@ status: brewing
 updated: 27.05.2026
 ---
 
-1. Start med å koke opp pastaen, så gjør du det andre mens
+1. Start med å koke opp pastaen, så gjør du det andre mens den koker.
 2. Knus pølsene og stek i en sautepanne
 3. Tilsett marinara. La dette kose seg
 4. I en blender, tilsett cottage cheese, lett revet parmesan, litt melk for å tynne ut. Smak til med krydderne
