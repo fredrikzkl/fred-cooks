@@ -22,7 +22,7 @@ ingredients:
 sides:
   - ris
   - pickle
-servings: '?' 
+servings: '5-6' 
 prep_time: 20m
 total_time: 1h
 status: marinating 
