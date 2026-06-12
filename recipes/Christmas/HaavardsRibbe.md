@@ -11,7 +11,7 @@ sides:
 servings: 6
 prep_time: 30m
 total_time: 8h
-status: marinating
+status: brewing
 updated: 28.05.2026
 ---
 

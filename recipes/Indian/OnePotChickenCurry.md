@@ -25,8 +25,8 @@ sides:
 servings: '5-6' 
 prep_time: 20m
 total_time: 1h
-status: marinating 
-updated: 26.05.2026
+status: brewing 
+updated: 12.06.2026
 
 ---
 
@@ -47,6 +47,13 @@ updated: 26.05.2026
 13. Fyll med vann til kyllingen er dekket, og la det småkoke i 20–30 minutter, til kyllingen er gjennomkokt
 14. Hvis du har kasuri methi, knus det mellom hendene og strø det i
 15. La det redusere i 6–7 minutter til sausen er tyknet, og server med ris og pickle
+
+## Forbedringer
+
+Etter første test:
+Jeg brukte kyllingvinger, og hadde i litt for mye vann, så ble veldig vannete. Vær forsiktig med vannmengden. Burde finne en løsning for å få tyknet sausen.
+Jeg brukte også litt hjemmelaget kyllingkraft som erstatning for vannet.
+Den manglet også litt punch, så prøvde med litt tomatpuré dagen etter, som gjorde den mye bedre
 
 ## Notater
 

@@ -14,7 +14,7 @@ ingredients:
 
 servings: 4 
 prep_time: 15m
-total_time: 45m
+total_time: 25m
 status: brewing
 updated: 27.05.2026
 ---

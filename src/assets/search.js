@@ -1,4 +1,4 @@
-const STATUSES = ['marinating', 'brewing', 'certified'];
+const STATUSES = ['brewing', 'certified'];
 
 const state = {
   recipes: [],
