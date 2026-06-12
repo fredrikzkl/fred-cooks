@@ -75,11 +75,9 @@ input[type="search"]:focus {
   color: var(--fg);
 }
 
-.status-chip.status-marinating { border-color: #f2cc8f; }
 .status-chip.status-brewing    { border-color: #e07a5f; }
 .status-chip.status-certified  { border-color: #3d405b; }
 
-.status-chip.active.status-marinating { background: #f2cc8f; }
 .status-chip.active.status-brewing    { background: #e07a5f; color: var(--bg); }
 .status-chip.active.status-certified  { background: #3d405b; color: var(--bg); }
 
@@ -94,7 +92,6 @@ input[type="search"]:focus {
   color: var(--fg);
 }
 
-.status-marinating { background: #f2cc8f; }
 .status-brewing    { background: #e07a5f; color: var(--bg); }
 .status-certified  { background: #3d405b; color: var(--bg); }
 
