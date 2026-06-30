@@ -78,7 +78,7 @@ function render() {
         <p class="meta">
           ${r.total_time ? `${escapeHtml(r.total_time)}` : ''}
           ${r.total_time && r.servings ? ' &middot; ' : ''}
-          ${r.servings ? `serves ${escapeHtml(r.servings)}` : ''}
+          ${r.servings ? `${escapeHtml(r.servings)} porsjoner` : ''}
         </p>
         ${r.tags.length ? `<ul class="tags">${r.tags.map(t => `<li>${escapeHtml(t)}</li>`).join('')}</ul>` : ''}
       </a>
