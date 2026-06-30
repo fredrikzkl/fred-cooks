@@ -17,8 +17,6 @@ status: brewing
 updated: 26.01.2021
 ---
 
-## Fremgangsmåte
-
 1. Stek opp kjøttet — bacon først for litt fett, deretter pølsa.
 2. Legg til kuttet løk og stek til den er myk.
 3. Bland inn tomatpuréen og karamelliser den.

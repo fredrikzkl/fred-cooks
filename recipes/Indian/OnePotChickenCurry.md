@@ -2,23 +2,23 @@
 title: One Pot Chicken Curry 
 tags: ["Indisk", "Middag", "One Pot"]
 ingredients:
-- { name: Kylling med bein, amount: ca 1.5kg}
-- { name: Tomat, amount: 3}
-- { name: Løk, amount: 2 medium/store}
-- { name: hvitløk (finhakket), amount: 4–6 fedd}
-- { name: fersk ingefær (revet), amount: ~2 ss (ca. 2 tommel)}
-- { name: ghee, amount: 1½–2 ss}
-- { name: rapsolje, amount: 1½–2 ss}
-- { name: laurbærblad,   amount: 2, section: Krydder }
-- { name: kanelstang,    amount: 1, section: Krydder }
-- { name: hel kardemomme, amount: 4–5, section: Krydder }
-- { name: hel nellik,     amount: 2–3, section: Krydder }
-- { name: gurkemeie,     amount: 1 tsk, section: Krydder }
-- { name: spisskummen,   amount: ½ ss, section: Krydder }
-- { name: koriander,     amount: 1–1½ tsk, section: Krydder }
-- { name: madras curry,  amount: ¾ ss, section: Krydder }
-- { name: garam masala,  amount: ¾–1 tsk, section: Krydder }
-- { name: kasuri methi (valgfritt), amount: 1 tsk, section: Krydder }
+  - { name: Kylling med bein,         amount: ca 1.5kg }
+  - { name: Tomat,                    amount: 3 }
+  - { name: Løk,                      amount: 2 medium/store }
+  - { name: hvitløk (finhakket),      amount: 4–6 fedd }
+  - { name: fersk ingefær (revet),    amount: ~2 ss (ca. 2 tommel) }
+  - { name: ghee,                     amount: 1½–2 ss }
+  - { name: rapsolje,                 amount: 1½–2 ss }
+  - { name: laurbærblad,              amount: 2, section: Krydder }
+  - { name: kanelstang,               amount: 1, section: Krydder }
+  - { name: hel kardemomme,           amount: 4–5, section: Krydder }
+  - { name: hel nellik,               amount: 2–3, section: Krydder }
+  - { name: gurkemeie,                amount: 1 tsk, section: Krydder }
+  - { name: spisskummen,              amount: ½ ss, section: Krydder }
+  - { name: koriander,                amount: 1–1½ tsk, section: Krydder }
+  - { name: madras curry,             amount: ¾ ss, section: Krydder }
+  - { name: garam masala,             amount: ¾–1 tsk, section: Krydder }
+  - { name: kasuri methi (valgfritt), amount: 1 tsk, section: Krydder }
 sides:
   - ris
   - pickle
@@ -29,8 +29,6 @@ status: brewing
 updated: 12.06.2026
 
 ---
-
-## Fremgangsmåte
 
 1. Kutt løken i strimler
 2. Varm olje og ghee i en stor gryte

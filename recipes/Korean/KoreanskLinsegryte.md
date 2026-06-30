@@ -23,8 +23,6 @@ status: certified
 updated: 26.05.2026
 ---
 
-## Fremgangsmåte
-
 1. Bland alle sausingrediensene i en bolle og sett til side.
 2. Stek løken i litt olje i en gryte til den er litt myk.
 3. Tilsett hvitløken og stek et minutt til — pass på at den ikke brenner seg.
