@@ -12,6 +12,14 @@ npm run dev        # build + serve at http://localhost:8000
 
 Requires Node 18+ and Python 3 (used by `npm run serve` for the static server).
 
+```bash
+npm run format # run the ingredient formatter
+npm run watch  # auto-rebuild dist/ on changes to src/ and recipes/
+npm run serve  # serve dist/ at http://localhost:8000
+```
+
+For live editing, run `npm run watch` and `npm run serve` in two terminals — `watch` rebuilds on save, `serve` hosts the result. (`npm run dev` is a one-shot build + serve with no auto-rebuild.)
+
 ## Adding a recipe
 
 Drop a Markdown file under `recipes/<Category>/<Name>.md`. The folder name becomes a tag automatically (so `recipes/Bread/Sourdough.md` is tagged `bread`).

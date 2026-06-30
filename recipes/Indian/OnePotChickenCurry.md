@@ -30,8 +30,6 @@ updated: 12.06.2026
 
 ---
 
-## Fremgangsmåte
-
 1. Kutt løken i strimler
 2. Varm olje og ghee i en stor gryte
 3. Stek laurbærblad, kanelstang, hel kardemomme og hel nellik i 30 sekunder

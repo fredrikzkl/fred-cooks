@@ -112,7 +112,7 @@ function recipePage(recipe, depth) {
     ${tags?.length ? `<ul class="tags">${tags.map(t => `<li>${esc(t)}</li>`).join('')}</ul>` : ''}
     ${ingredients?.length ? `
     <section>
-      <h2>Ingredients</h2>
+      <h2>Ingredienser</h2>
       ${groupIngredients(ingredients).map(g => `
         ${g.section ? `<h3 class="ing-section">${esc(g.section)}</h3>` : ''}
         <ul class="ingredients-list">
@@ -129,7 +129,7 @@ function recipePage(recipe, depth) {
       </details>
     </section>` : ''}
     <section class="instructions">
-      <h2>Instructions</h2>
+      <h2>Fremgangsmåte</h2>
       ${bodyHtml}
     </section>
     ${recipe.updated ? `<p class="updated">Last edited ${esc(recipe.updated)}</p>` : ''}
