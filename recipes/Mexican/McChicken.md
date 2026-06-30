@@ -21,3 +21,13 @@ updated: 30.06.2026
 3. Varm en panne til medium-høy varm med litt olje
 4. Stek tortillan med kyllingen vendt ned i 3-4 minutter til kyllingen er gjennomstekt. Flip og stek litt på andre siden og
 5. Fyll på med salat og majones, brett og server
+
+## Alternativ saus mer lik originalen
+
+- 4 ss majones (vanlig eller lett)
+- 1 tsk sukker
+- 1–2 tsk eddik *eller* sitronsaft
+- ¼ tsk sennep
+- en liten klype salt
+
+**Snarveier:** Thousand Island eller litt honning + sitron rørt inn i vanlig majones.
