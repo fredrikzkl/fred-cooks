@@ -87,13 +87,13 @@ function recipePage(recipe, depth) {
   const up = '../'.repeat(depth);
   const { title, prep_time, total_time, servings, tags, ingredients, sides, status, bodyHtml } = recipe;
   const meta = [
-    prep_time && `Prep: ${esc(prep_time)}`,
-    total_time && `Total: ${esc(total_time)}`,
-    servings && `Serves ${esc(servings)}`,
+    prep_time && `Forberedelse: ${esc(prep_time)}`,
+    total_time && `Totalt: ${esc(total_time)}`,
+    servings && `${esc(servings)} porsjoner`,
   ].filter(Boolean).join(' &middot; ');
 
   return `<!doctype html>
-<html lang="en">
+<html lang="no">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -105,7 +105,7 @@ function recipePage(recipe, depth) {
 </head>
 <body class="recipe-page">
   <main>
-    <a class="back" href="${up}index.html">&larr; Back</a>
+    <a class="back" href="${up}index.html">&larr; Tilbake</a>
     ${status ? `<p class="status-row"><span class="status status-${esc(status)}">${esc(statusLabel(status))}</span></p>` : ''}
     <h1>${esc(title)}</h1>
     ${meta ? `<p class="meta">${meta}</p>` : ''}
@@ -122,7 +122,7 @@ function recipePage(recipe, depth) {
     ${sides?.length ? `
     <section class="sides">
       <details>
-        <summary>Sides</summary>
+        <summary>Tilbehør</summary>
         <ul class="sides-list">
           ${sides.map(s => `<li>${esc(s)}</li>`).join('')}
         </ul>
@@ -132,7 +132,7 @@ function recipePage(recipe, depth) {
       <h2>Fremgangsmåte</h2>
       ${bodyHtml}
     </section>
-    ${recipe.updated ? `<p class="updated">Last edited ${esc(recipe.updated)}</p>` : ''}
+    ${recipe.updated ? `<p class="updated">Oppdatert ${esc(recipe.updated)}</p>` : ''}
   </main>
 </body>
 </html>`;
