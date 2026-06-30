@@ -7,7 +7,7 @@ ingredients:
   - { name: salt og pepper,   amount: smak til }
   - { name: panko,            amount: 1.5 dl }
   - { name: isbergsalat,      amount: 1 dl ca }
-  - { name: majones,      amount: 0.5 dl ca }
+  - { name: majones,          amount: 0.5 dl ca }
   - { name: tortillas,        amount: 8 små }
 servings: '2-3'
 prep_time: 10m
