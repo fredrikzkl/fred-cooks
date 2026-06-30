@@ -12,14 +12,14 @@ ingredients:
 servings: '2-3'
 prep_time: 10m
 total_time: 25m
-status: certified 
+status: certified
 updated: 30.06.2026
 ---
 
 1. Bland krydderet sammen med kyllingkjøttdeigen
 2. Press tynt lag med kjøttdeigen på tortilla overflaten, og strø generøst lag med panko over.
 3. Varm en panne til medium-høy varm med litt olje
-4. Stek tortillan med kyllingen vendt ned i 3-4 minutter til kyllingen er gjennomstekt. Flip og stek litt på andre siden og
+4. Stek tortillan med kyllingen vendt ned i 3-4 minutter til kyllingen er gjennomstekt. Flip og stek litt på andre siden.
 5. Fyll på med salat og majones, brett og server
 
 ## Alternativ saus mer lik originalen
