@@ -9,7 +9,7 @@ ingredients:
   - { name: Parmigiano Reggiano,        amount: 70g, section: Saus }
   - { name: Melk,                       amount: 0.6dl, section: Saus }
   - { name: Oregano,                    amount: 1 tsp, section: Saus }
-  - { name: Hvitløkskrydder,           amount: 1 tsp, section: Saus }
+  - { name: Hvitløkskrydder,            amount: 1 tsp, section: Saus }
   - { name: Salt og Pepper,             amount: smak til, section: Saus }
 servings: 4 
 prep_time: 15m

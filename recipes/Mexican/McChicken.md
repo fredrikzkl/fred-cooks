@@ -4,7 +4,8 @@ tags: ["Rask"]
 ingredients:
   - { name: kyllingkjøttdeig, amount: 600g }
   - { name: hvitløkspulver,   amount: 2 tsp }
-  - { name: salt og pepper,   amount: smak til }
+  - { name: salt,             amount: 1.5 tsp }
+  - { name: pepper,           amount: 0.5 tsp }
   - { name: panko,            amount: 1.5 dl }
   - { name: isbergsalat,      amount: 1 dl ca }
   - { name: majones,          amount: 0.5 dl ca }
