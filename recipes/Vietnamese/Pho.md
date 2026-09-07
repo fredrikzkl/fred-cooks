@@ -40,7 +40,7 @@ updated: 29.08.2026
 
 ## Broth
 
-1. **Vask beina.** Skyll bein, oksehalen, og  bibringen grundig under rennende kaldt vann og plasser de i en kraftgryte. Fyll på med **4L vann**, og kok opp til puttring (ta av lokket)
+1. **Vask beina.** Skyll bein, oksehalen, og  bibringen grundig under rennende kaldt vann og plasser de i en kraftgryte. Fyll på med **4L vann**, og kok opp til putring (ta av lokket)
 2. **Karamelliser løk og ingefær.** Del i to, spray med oljen og svi snittflaten sort i tørr panne eller under grillelement.
 3. **Rist krydderne.** Tørrist stjerneanis, kanel, kardemomme, nellik og korianderfrø til de dufter. Legg i en tepose/klut. (Tips: Ta de store tingene først, så de små deretter, så ikke de små brenner feks korianderfrø)
 4. **Trekk kraften.** Etter den værste skummingen (ca 1 time), ha oppi svidd løk/ingefær, krydderposen og skrellet daikonen i gryta. Tilsett salt, sukkeret og fiskesaus.
