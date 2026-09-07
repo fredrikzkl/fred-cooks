@@ -6,6 +6,7 @@
   --accent: #e07a5f;
   --accent-strong: #3d405b;
   --sage: #81b29a;
+  --sand: #f2cc8f;
   --card: #ffffff;
   --border: #e6e2c8;
   --shadow: 0 6px 20px rgba(61, 64, 91, 0.18);
@@ -31,6 +32,10 @@ main {
 h1 {
   font-size: 2rem;
   margin: 0 0 1rem;
+}
+
+header h1 {
+  text-align: center;
 }
 
 h2 {
@@ -75,12 +80,6 @@ input[type="search"]:focus {
   color: var(--fg);
 }
 
-.status-chip.status-brewing    { border-color: #e07a5f; }
-.status-chip.status-certified  { border-color: #3d405b; }
-
-.status-chip.active.status-brewing    { background: #e07a5f; color: var(--bg); }
-.status-chip.active.status-certified  { background: #3d405b; color: var(--bg); }
-
 .status {
   display: inline-block;
   font-size: 0.72rem;
@@ -92,8 +91,8 @@ input[type="search"]:focus {
   color: var(--fg);
 }
 
-.status-brewing    { background: #e07a5f; color: var(--bg); }
-.status-certified  { background: #3d405b; color: var(--bg); }
+.status-brewing    { background: var(--sand); color: var(--fg); }
+.status-certified  { background: var(--sage); color: var(--fg); }
 
 .status-row { margin: 0 0 0.4rem; }
 
@@ -136,11 +135,11 @@ input[type="search"]:focus {
 .recipe-card a {
   display: block;
   padding: 1rem 1.1rem;
-  background: var(--sage);
+  background: var(--accent-strong);
   border: none;
   border-radius: 10px;
   text-decoration: none;
-  color: inherit;
+  color: var(--bg);
   box-shadow: 0 0 0 rgba(61, 64, 91, 0);
   transition: box-shadow 0.25s ease;
 }
@@ -155,7 +154,7 @@ input[type="search"]:focus {
 .recipe-card .meta {
   margin: 0;
   font-size: 0.85rem;
-  color: var(--fg);
+  color: var(--bg);
 }
 
 .recipe-card .tags li {
@@ -178,7 +177,7 @@ input[type="search"]:focus {
   padding: 0.1rem 0.55rem;
   background: var(--bg);
   border-radius: 999px;
-  color: var(--muted);
+  color: var(--fg);
 }
 
 .recipe-page .meta {
