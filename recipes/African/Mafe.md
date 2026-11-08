@@ -2,7 +2,7 @@
 title: Mafé
 tags: ["Middag", "Afrika", "Gryterett"]
 ingredients:
-  - { name: Kjøtt (kylling,       amount: 1.3kg }
+  - { name: "Kjøtt (kylling, storfe eller lam)", amount: 1.3kg }
   - { name: Olje til steking,     amount: "?" }
   - { name: Peanøttsmør (creamy), amount: 350g }
   - { name: Tomatpuré,            amount: 180g }
