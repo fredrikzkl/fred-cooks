@@ -2,21 +2,21 @@
 title: Mafé
 tags: ["Middag", "Afrika", "Gryterett"]
 ingredients:
-  - { name: Kjøtt (kylling, storfe eller lam), amount: 1.3kg }
-  - { name: Olje til steking,                  amount: "?" }
-  - { name: Peanøttsmør (creamy),              amount: 350g }
-  - { name: Tomatpuré,                         amount: 180g }
-  - { name: Kjøttbuljongterning,               amount: 2–4 }
-  - { name: Laurbærblad,                       amount: 2 }
-  - { name: Vann,                              amount: ca 1.1L (fordelt mellom gryta og peanøttsmøret) }
-  - { name: Salt og pepper,                    amount: smak til }
-  - { name: Persille,                          amount: 1 liten bunt, section: Paste }
-  - { name: Hvitløk,                           amount: 4 fedd, section: Paste }
-  - { name: Sjalottløk,                        amount: 1, section: Paste }
-  - { name: Vårløk,                            amount: 1, section: Paste }
-  - { name: Grønn paprika,                     amount: 1, section: Paste }
-  - { name: Chilipepper,                       amount: etter evne, section: Paste }
-  - { name: Grønnsaker*, amount: "Se seksjon", section: Grønnsaker }
+  - { name: Kjøtt (kylling,       amount: 1.3kg }
+  - { name: Olje til steking,     amount: "?" }
+  - { name: Peanøttsmør (creamy), amount: 350g }
+  - { name: Tomatpuré,            amount: 180g }
+  - { name: Kjøttbuljongterning,  amount: 2–4 }
+  - { name: Laurbærblad,          amount: 2 }
+  - { name: Vann,                 amount: ca 1.1L (fordelt mellom gryta og peanøttsmøret) }
+  - { name: Salt og pepper,       amount: smak til }
+  - { name: Persille,             amount: 1 liten bunt, section: Paste }
+  - { name: Hvitløk,              amount: 4 fedd, section: Paste }
+  - { name: Sjalottløk,           amount: 1, section: Paste }
+  - { name: Vårløk,               amount: 1, section: Paste }
+  - { name: Grønn paprika,        amount: 1, section: Paste }
+  - { name: Chilipepper,          amount: etter evne, section: Paste }
+  - { name: "Grønnsaker*",        amount: Se seksjon, section: Grønnsaker }
 servings: 6
 status: brewing
 updated: 08.11.2026

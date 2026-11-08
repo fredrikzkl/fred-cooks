@@ -2,18 +2,18 @@
 title: Toscansk Onepot Kyllingpasta
 tags: ["Middag", "One Pot"]
 ingredients:
-  - { name: Kyllingfilet (minutbiter),        amount: 550g }
-  - { name: Spagetti,                         amount: 200g }
+  - { name: Kyllingfilet (minutbiter),           amount: 550g }
+  - { name: Spagetti,                            amount: 200g }
   - { name: Philadelphia ost (hvitløk og urter), amount: 200g }
-  - { name: Kyllingbuljongterning,            amount: 2 }
-  - { name: Soltørket tomat (strimlet),       amount: 100g }
-  - { name: Frisk babyspinat,                 amount: 60g }
-  - { name: Revet ost,           amount: 25g }
-  - { name: Hvitløksfedd (presset),           amount: 2 }
-  - { name: Purre,                            amount: ½ liten }
-  - { name: Oregano,                          amount: 1 ss }
-  - { name: Varmt vann,                       amount: 6.5dl }
-  - { name: Salt og pepper,                   amount: smak til }
+  - { name: Kyllingbuljongterning,               amount: 2 }
+  - { name: Soltørket tomat (strimlet),          amount: 100g }
+  - { name: Frisk babyspinat,                    amount: 60g }
+  - { name: Revet ost,                           amount: 25g }
+  - { name: Hvitløksfedd (presset),              amount: 2 }
+  - { name: Purre,                               amount: ½ liten }
+  - { name: Oregano,                             amount: 1 ss }
+  - { name: Varmt vann,                          amount: 6.5dl }
+  - { name: Salt og pepper,                      amount: smak til }
 servings: 4
 prep_time: 10m
 total_time: 20m
