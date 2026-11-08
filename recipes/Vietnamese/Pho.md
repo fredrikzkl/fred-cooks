@@ -24,7 +24,7 @@ ingredients:
   - { name: thai chili (fersk),           amount: 1–2 stk, section: Topping }
   - { name: vårløk,                       amount: 3 stk, section: Topping }
   - { name: bønnespirer,                  amount: 200g, section: Topping }
-  - { name: gulløk (tynt kuttet,          amount: 1 stk, section: Topping }
+  - { name: "gulløk (tynt kuttet, i vann)", amount: 1 stk, section: Topping }
   - { name: lime,                         amount: 2 stk, section: Topping }
 sides:
   - "hoisinsaus og sriracha"
