@@ -3,33 +3,29 @@ title: Pho Bo
 status: brewing
 tags: ["Suppe", "Gryte"]
 ingredients:
-  - { name: oksebein / -hale , amount: ~1.5kg, section: Kraft }
-  - { name: oksekjøtt (bibringe / bryst),     amount: 500g, section: Kraft }
-  - { name: gulløk,                   amount: 1-2 stk, section: Kraft }
-  - { name: daikon,                   amount: 300g, section: Kraft }
-  - { name: ingefær (fersk),          amount: ~13 cm, section: Kraft }
-  - { name: fiskesaus,                amount: 4 tbps (60ml), section: Kraft }
-  - { name: beef stock (valgfritt, hvis trengs),        amount: 2 tbsp, section: Kraft}
-
-  - { name: stjerneanis,              amount: 4–5 stk, section: Krydder }
-  - { name: kanelstang,               amount: 1 stk, section: Krydder }
-  - { name: kardemomme (sort valgfritt),        amount: 1 stk, section: Krydder }
-  - { name: nellik,                   amount: 4 stk, section: Krydder }
-  - { name: korianderfrø,             amount: 1 tbps, section: Krydder }
-  - { name: brunt sukker,             amount: 2 tbps, section: Krydder }
-
-  - { name: risnudler (banh pho),     amount: 400g }
-  - { name: rått oksekjøtt (tynt skåret),  amount: 300g }
-
-  - { name: fersk koriander,          amount: 1 bunt, section: Urter}
-  - { name: thaibasilikum,            amount: 1 bunt, section: Urter}
-  - { name: mynte,            amount: 1 bunt, section: Urter}
-
-  - { name: thai chili (fersk),            amount: 1–2 stk, section: Topping }
-  - { name: vårløk,                   amount: 3 stk, section: Topping }
-  - { name: bønnespirer,              amount: 200g, section: Topping }
-  - { name: gulløk (tynt kuttet, i vann),              amount: 1 stk, section: Topping }
-  - { name: lime,                     amount: 2 stk, section: Topping }
+  - { name: oksebein / -hale,             amount: ~1.5kg, section: Kraft }
+  - { name: oksekjøtt (bibringe / bryst), amount: 500g, section: Kraft }
+  - { name: gulløk,                       amount: 1-2 stk, section: Kraft }
+  - { name: daikon,                       amount: 300g, section: Kraft }
+  - { name: ingefær (fersk),              amount: ~13 cm, section: Kraft }
+  - { name: fiskesaus,                    amount: 4 tbps (60ml), section: Kraft }
+  - { name: beef stock (valgfritt),        amount: 2 tbsp, section: Kraft }
+  - { name: stjerneanis,                  amount: 4–5 stk, section: Krydder }
+  - { name: kanelstang,                   amount: 1 stk, section: Krydder }
+  - { name: kardemomme (sort valgfritt),  amount: 1 stk, section: Krydder }
+  - { name: nellik,                       amount: 4 stk, section: Krydder }
+  - { name: korianderfrø,                 amount: 1 tbps, section: Krydder }
+  - { name: brunt sukker,                 amount: 2 tbps, section: Krydder }
+  - { name: risnudler (banh pho),         amount: 400g }
+  - { name: rått oksekjøtt (tynt skåret), amount: 300g }
+  - { name: fersk koriander,              amount: 1 bunt, section: Urter }
+  - { name: thaibasilikum,                amount: 1 bunt, section: Urter }
+  - { name: mynte,                        amount: 1 bunt, section: Urter }
+  - { name: thai chili (fersk),           amount: 1–2 stk, section: Topping }
+  - { name: vårløk,                       amount: 3 stk, section: Topping }
+  - { name: bønnespirer,                  amount: 200g, section: Topping }
+  - { name: "gulløk (tynt kuttet, i vann)", amount: 1 stk, section: Topping }
+  - { name: lime,                         amount: 2 stk, section: Topping }
 sides:
   - "hoisinsaus og sriracha"
 servings: 4
