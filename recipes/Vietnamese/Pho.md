@@ -9,7 +9,7 @@ ingredients:
   - { name: daikon,                       amount: 300g, section: Kraft }
   - { name: ingefær (fersk),              amount: ~13 cm, section: Kraft }
   - { name: fiskesaus,                    amount: 4 tbps (60ml), section: Kraft }
-  - { name: beef stock (valgfritt,        amount: 2 tbsp, section: Kraft }
+  - { name: beef stock (valgfritt),        amount: 2 tbsp, section: Kraft }
   - { name: stjerneanis,                  amount: 4–5 stk, section: Krydder }
   - { name: kanelstang,                   amount: 1 stk, section: Krydder }
   - { name: kardemomme (sort valgfritt),  amount: 1 stk, section: Krydder }
