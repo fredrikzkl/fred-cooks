@@ -149,7 +149,12 @@ input[type="search"]:focus {
 
 .recipe-card a:hover { box-shadow: var(--shadow); }
 
+@media (max-width: 480px) {
+  .recipe-list { grid-template-columns: 1fr; }
+}
+
 .recipe-card h2 {
+  overflow-wrap: anywhere;
   margin: 0 0 0.25rem;
   font-size: 1.1rem;
 }

@@ -16,7 +16,7 @@ ingredients:
   - { name: Vårløk,                            amount: 1, section: Paste }
   - { name: Grønn paprika,                     amount: 1, section: Paste }
   - { name: Chilipepper,                       amount: etter evne, section: Paste }
-  - { name: Grønnsaker (gulrot, hodekål, okra, søtpotet, potet, gresskar, aubergine, maniok), amount: "f.eks. 6 tynne gulrøtter og 500g hodekål", section: Grønnsaker }
+  - { name: Grønnsaker*, amount: "Se seksjon", section: Grønnsaker }
 servings: 6
 status: brewing
 updated: 08.11.2026
@@ -30,6 +30,12 @@ updated: 08.11.2026
 6. Tilsett buljongterninger og laurbærblader. Smak til med salt og pepper
 7. Ha i grønnsakene og la gryta småkoke til de er møre. Legg grønnsaker som trenger kort koketid, som okra, i mot slutten
 8. Server med ris eller swallow
+
+## Grønnsaker
+
+Eksempler på grønnsaker:
+Gulrot, hodekål, okra, søtpotet, potet, gresskar, aubergine, maniok.
+F.eks. 6 tynne gulrøtter og 500g hodekål
 
 ## Notater
 
